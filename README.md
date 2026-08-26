@@ -7,7 +7,6 @@ This repository helps you discover APIs across a wide range of categories, inclu
 Whether you are building a side project, prototype, learning application, or production system, this collection provides a convenient starting point for exploring useful APIs.
 
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
-[![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-blue.svg?style=flat-square)](#license)
 
 ---
 
@@ -33,7 +32,7 @@ Each entry contains:
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
 - [APIs](#apis)
   - [Advertising](#advertising)
