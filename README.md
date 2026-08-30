@@ -1,4 +1,4 @@
-# 🌐 Public APIs
+# 🌐 Public APIs 
 
 A curated collection of public APIs for developers, students, and technology enthusiasts.
 
