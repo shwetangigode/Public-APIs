@@ -8,7 +8,7 @@ Whether you are building a side project, prototype, learning application, or pro
 
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
 
----
+--- 
 
 ## 📖 About
 
