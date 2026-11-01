@@ -509,6 +509,7 @@ Each entry contains:
 | [**Bhagavad Gita**](https://bhagavadgita.io/) | Bhagavad Gita in various languages. | 🟢 |
 | [**BrowserCat**](https://www.browsercat.com/docs) | Headless browser API for automation, scraping, AI agent web access, image/pdf generation, and more. | **N/A** |
 | [**Bruzu**](https://docs.bruzu.com) |  Dynamically generate Images with a URL string. This service allows you to create dynamic images using nothing more than a URL string.| 💸 |
+| [**Bucketlist.nl Dream of the Day**](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json) | Daily travel and life-experience idea in JSON; Dutch by default. | **N/A** |
 | [**Callook.info**](https://callook.info) | Look up information about United States ham radio callsigns. | **N/A** |
 | [**ChuckNorris.io**](https://api.chucknorris.io) | A free [JSON](https://en.wikipedia.org/wiki/JSON) API for hand curated Chuck Norris facts. | 🟢 |
 | [**Cloudflare Trace**](https://www.cloudflare.com/cdn-cgi/trace) | Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More. | **N/A** |
